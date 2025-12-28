@@ -8,7 +8,7 @@
   "data_type": {
     "name": "zarrs.optional",
     "configuration": {
-      "name": "optional",
+      "name": "zarrs.optional",
       "configuration": {
         "name": "float32",
         "configuration": {}
@@ -32,6 +32,14 @@
   },
   "fill_value": null,
   "codecs": [
+    {
+      "name": "reshape",
+      "configuration": {
+        "shape": [
+          24
+        ]
+      }
+    },
     {
       "name": "zarrs.optional",
       "configuration": {
@@ -60,13 +68,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "name": "zstd",
-      "configuration": {
-        "level": 5,
-        "checksum": false
       }
     }
   ]

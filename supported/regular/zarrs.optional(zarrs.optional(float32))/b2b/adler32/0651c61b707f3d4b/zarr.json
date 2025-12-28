@@ -8,7 +8,7 @@
   "data_type": {
     "name": "zarrs.optional",
     "configuration": {
-      "name": "optional",
+      "name": "zarrs.optional",
       "configuration": {
         "name": "float32",
         "configuration": {}
@@ -63,13 +63,7 @@
       }
     },
     {
-      "name": "blosc",
-      "configuration": {
-        "cname": "blosclz",
-        "clevel": 5,
-        "shuffle": "noshuffle",
-        "blocksize": 0
-      }
+      "name": "numcodecs.adler32"
     }
   ]
 }

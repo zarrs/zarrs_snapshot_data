@@ -8,7 +8,7 @@
   "data_type": {
     "name": "zarrs.optional",
     "configuration": {
-      "name": "optional",
+      "name": "zarrs.optional",
       "configuration": {
         "name": "float32",
         "configuration": {}
@@ -32,9 +32,6 @@
   },
   "fill_value": null,
   "codecs": [
-    {
-      "name": "zarrs.squeeze"
-    },
     {
       "name": "zarrs.optional",
       "configuration": {
@@ -63,6 +60,12 @@
             }
           }
         ]
+      }
+    },
+    {
+      "name": "numcodecs.bz2",
+      "configuration": {
+        "level": 5
       }
     }
   ]

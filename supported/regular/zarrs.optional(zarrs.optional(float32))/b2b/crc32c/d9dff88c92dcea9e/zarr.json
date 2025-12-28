@@ -8,7 +8,7 @@
   "data_type": {
     "name": "zarrs.optional",
     "configuration": {
-      "name": "optional",
+      "name": "zarrs.optional",
       "configuration": {
         "name": "float32",
         "configuration": {}
@@ -63,10 +63,7 @@
       }
     },
     {
-      "name": "zarrs.gdeflate",
-      "configuration": {
-        "level": 5
-      }
+      "name": "crc32c"
     }
   ]
 }

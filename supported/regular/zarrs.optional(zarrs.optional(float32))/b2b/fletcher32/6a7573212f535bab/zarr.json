@@ -8,7 +8,7 @@
   "data_type": {
     "name": "zarrs.optional",
     "configuration": {
-      "name": "optional",
+      "name": "zarrs.optional",
       "configuration": {
         "name": "float32",
         "configuration": {}
@@ -63,7 +63,7 @@
       }
     },
     {
-      "name": "numcodecs.adler32"
+      "name": "numcodecs.fletcher32"
     }
   ]
 }
