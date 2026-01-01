@@ -1,6 +1,6 @@
 {
   "status": "unsupported",
-  "reason": "Data storage failed: fixedscaleoffset got uint8 as input, but metadata expects float64",
+  "reason": "Data storage failed: Unsupported data type uint8 for codec fixedscaleoffset",
   "array_metadata": {
     "zarr_format": 3,
     "node_type": "array",
