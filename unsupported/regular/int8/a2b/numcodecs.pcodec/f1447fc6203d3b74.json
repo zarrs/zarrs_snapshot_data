@@ -1,6 +1,6 @@
 {
   "status": "unsupported",
-  "reason": "Data storage failed: Unsupported data type int8 for codec pcodec",
+  "reason": "Data storage failed: int8 / |i1 does not support the Pcodec codec",
   "array_metadata": {
     "zarr_format": 3,
     "node_type": "array",

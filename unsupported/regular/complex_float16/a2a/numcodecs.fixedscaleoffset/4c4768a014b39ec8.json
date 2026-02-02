@@ -1,6 +1,6 @@
 {
   "status": "unsupported",
-  "reason": "Data storage failed: Unsupported data type complex_float16 for codec fixedscaleoffset",
+  "reason": "Data storage failed: complex_float16 does not support the FixedScaleOffset codec",
   "array_metadata": {
     "zarr_format": 3,
     "node_type": "array",

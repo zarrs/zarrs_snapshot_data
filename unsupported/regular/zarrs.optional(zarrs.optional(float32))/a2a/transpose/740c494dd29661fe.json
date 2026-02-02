@@ -1,6 +1,6 @@
 {
   "status": "unsupported",
-  "reason": "Data storage failed: Unsupported data type optional for codec transpose. Use the optional codec to handle optional data types.",
+  "reason": "Data storage failed: Unsupported data type zarrs.optional for codec transpose. Use the optional codec to handle optional data types.",
   "array_metadata": {
     "zarr_format": 3,
     "node_type": "array",

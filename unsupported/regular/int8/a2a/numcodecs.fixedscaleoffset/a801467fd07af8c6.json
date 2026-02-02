@@ -1,6 +1,6 @@
 {
   "status": "unsupported",
-  "reason": "Data storage failed: Unsupported data type int8 for codec fixedscaleoffset",
+  "reason": "Data storage failed: Unsupported data type int8 for codec numcodecs.fixedscaleoffset",
   "array_metadata": {
     "zarr_format": 3,
     "node_type": "array",

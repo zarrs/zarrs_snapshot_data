@@ -1,6 +1,6 @@
 {
   "status": "unsupported",
-  "reason": "Data storage failed: Unsupported data type complex_float8_e5m2 for codec zfp",
+  "reason": "Data storage failed: complex_float8_e5m2 does not support the Zfp codec",
   "array_metadata": {
     "zarr_format": 3,
     "node_type": "array",

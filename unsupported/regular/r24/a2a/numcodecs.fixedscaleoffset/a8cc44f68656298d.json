@@ -1,6 +1,6 @@
 {
   "status": "unsupported",
-  "reason": "Data storage failed: Unsupported data type r* for codec fixedscaleoffset",
+  "reason": "Data storage failed: r24 / |V3 does not support the FixedScaleOffset codec",
   "array_metadata": {
     "zarr_format": 3,
     "node_type": "array",

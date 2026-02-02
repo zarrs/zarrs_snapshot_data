@@ -1,6 +1,6 @@
 {
   "status": "unsupported",
-  "reason": "Data storage failed: Unsupported data type r* for codec packbits",
+  "reason": "Data storage failed: r24 / |V3 does not support the PackBits codec",
   "array_metadata": {
     "zarr_format": 3,
     "node_type": "array",

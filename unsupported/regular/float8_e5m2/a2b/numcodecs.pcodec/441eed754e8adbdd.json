@@ -1,6 +1,6 @@
 {
   "status": "unsupported",
-  "reason": "Data storage failed: Unsupported data type float8_e5m2 for codec pcodec",
+  "reason": "Data storage failed: float8_e5m2 does not support the Pcodec codec",
   "array_metadata": {
     "zarr_format": 3,
     "node_type": "array",
