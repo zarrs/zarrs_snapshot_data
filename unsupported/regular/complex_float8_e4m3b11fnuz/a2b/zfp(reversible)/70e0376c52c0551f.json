@@ -1,0 +1,4 @@
+{
+  "status": "unsupported",
+  "reason": "Codec creation failed: complex_float8_e4m3b11fnuz does not support the Zfp codec"
+}

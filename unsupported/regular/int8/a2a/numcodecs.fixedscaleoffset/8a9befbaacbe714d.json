@@ -1,0 +1,4 @@
+{
+  "status": "unsupported",
+  "reason": "Codec creation failed: Unsupported data type int8 for codec numcodecs.fixedscaleoffset"
+}

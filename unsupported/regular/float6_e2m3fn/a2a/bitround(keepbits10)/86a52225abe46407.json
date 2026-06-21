@@ -1,0 +1,4 @@
+{
+  "status": "unsupported",
+  "reason": "Codec creation failed: float6_e2m3fn does not support the Bitround codec"
+}

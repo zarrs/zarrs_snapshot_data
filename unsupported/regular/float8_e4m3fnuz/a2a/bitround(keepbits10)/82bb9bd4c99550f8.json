@@ -1,0 +1,4 @@
+{
+  "status": "unsupported",
+  "reason": "Codec creation failed: float8_e4m3fnuz does not support the Bitround codec"
+}

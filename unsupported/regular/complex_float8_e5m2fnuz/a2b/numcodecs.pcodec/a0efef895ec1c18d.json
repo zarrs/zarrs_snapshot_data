@@ -1,0 +1,4 @@
+{
+  "status": "unsupported",
+  "reason": "Codec creation failed: complex_float8_e5m2fnuz does not support the Pcodec codec"
+}

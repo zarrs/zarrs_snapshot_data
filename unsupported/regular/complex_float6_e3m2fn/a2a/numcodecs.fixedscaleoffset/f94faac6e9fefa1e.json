@@ -1,0 +1,4 @@
+{
+  "status": "unsupported",
+  "reason": "Codec creation failed: complex_float6_e3m2fn does not support the FixedScaleOffset codec"
+}

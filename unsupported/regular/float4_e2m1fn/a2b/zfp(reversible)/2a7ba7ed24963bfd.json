@@ -1,0 +1,4 @@
+{
+  "status": "unsupported",
+  "reason": "Codec creation failed: float4_e2m1fn does not support the Zfp codec"
+}

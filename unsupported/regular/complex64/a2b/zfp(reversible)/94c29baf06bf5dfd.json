@@ -1,0 +1,4 @@
+{
+  "status": "unsupported",
+  "reason": "Codec creation failed: complex64 / <c8 does not support the Zfp codec"
+}
