@@ -1,4 +1,4 @@
 {
   "status": "unsupported",
-  "reason": "Codec creation failed: complex128 / <c16 does not support the Zfp codec"
+  "reason": "Codec creation failed: Unsupported data type complex128 for codec Zfp"
 }

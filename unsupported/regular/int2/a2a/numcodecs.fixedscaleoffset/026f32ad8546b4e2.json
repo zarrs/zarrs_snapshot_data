@@ -1,4 +1,4 @@
 {
   "status": "unsupported",
-  "reason": "Codec creation failed: int2 does not support the FixedScaleOffset codec"
+  "reason": "Codec creation failed: Unsupported data type int2 for codec FixedScaleOffset"
 }

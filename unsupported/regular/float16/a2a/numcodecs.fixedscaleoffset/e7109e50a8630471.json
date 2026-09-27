@@ -1,4 +1,4 @@
 {
   "status": "unsupported",
-  "reason": "Codec creation failed: float16 / <f2 does not support the FixedScaleOffset codec"
+  "reason": "Codec creation failed: Unsupported data type float16 for codec FixedScaleOffset"
 }

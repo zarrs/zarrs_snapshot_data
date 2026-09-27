@@ -1,4 +1,4 @@
 {
   "status": "unsupported",
-  "reason": "Codec creation failed: r24 / |V3 does not support the PackBits codec"
+  "reason": "Codec creation failed: Unsupported data type r24 for codec PackBits"
 }
